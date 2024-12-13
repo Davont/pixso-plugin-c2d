@@ -1,0 +1,1 @@
+# pixso-plugin-c2d
