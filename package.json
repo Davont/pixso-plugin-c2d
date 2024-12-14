@@ -1,0 +1,25 @@
+{
+  "name": "my-plugin",
+  "version": "1.0.0",
+  "description": "pixso plugin react ts remplate",
+  "scripts": {
+    "build": "plugin-cli build",
+    "dev": "plugin-cli dev",
+    "pkg": "plugin-cli pkg"
+  },
+  "keywords": [
+    "pixso",
+    "pulgin",
+    "template"
+  ],
+  "author": "xiaopf@300624.cn",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@pixso/plugin-cli": "^1.0.7",
+    "webpack-hot-middleware": "2.25.3"
+  }
+}
